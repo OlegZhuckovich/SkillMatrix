@@ -32,6 +32,7 @@ class ActionCommand {
     private static final String ORANGE_COLOR = "#db6c18";
     private static final String GREEN_COLOR = "#157a0f";
     private static final String AQUA_COLOR = "#0d8084";
+    private static final String PURPLE_COLOR = "#43ab32";
 
     private static final Character UNDERLINE_SYMBOL = '_';
 
